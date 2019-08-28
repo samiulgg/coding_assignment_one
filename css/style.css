@@ -1,0 +1,24 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    background-color: #FAFAFA;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+table{
+    width: 100%;
+}
+th{
+    background-color: #4f81c7;
+    color: white;
+    padding: 10px;
+}
+td{
+    color: #171E24;
+    padding: 5px;
+}
+.aligncenter{
+    text-align: center;
+}
